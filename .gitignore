@@ -1,0 +1,7 @@
+.DS_Store
+*.apk
+*.dmg
+*.zip
+*.jks
+*.keystore
+*.p12
