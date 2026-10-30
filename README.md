@@ -6,18 +6,20 @@ Android 与 macOS 直播播放器。支持分类选台、收藏、多源切换�
 
 ## 下载
 
-到 [Releases](https://github.com/maxleolee-eng/myTV/releases/latest) 下载：
+Android 最新：[4.8.3 下载](https://github.com/maxleolee-eng/myTV/releases/tag/v4.8.3)；Mac：[4.8 下载](https://github.com/maxleolee-eng/myTV/releases/tag/v4.8)。
 
 | 文件 | 适用设备 |
 | --- | --- |
-| myTV-Android-4.8-build30.apk | Android 5.0 及以上手机、平板、电视盒子 |
-| myTV-macOS-4.8-arm64.dmg | Apple Silicon Mac，macOS 13 及以上 |
+| [myTV-Android-4.8.3-build41.apk](https://github.com/maxleolee-eng/myTV/releases/download/v4.8.3/myTV-Android-4.8.3-build41.apk) | Android 5.0 及以上手机、平板、电视盒子 |
+| [myTV-macOS-4.8-arm64.dmg](https://github.com/maxleolee-eng/myTV/releases/download/v4.8/myTV-macOS-4.8-arm64.dmg) | Apple Silicon Mac，macOS 13 及以上 |
 
 安装与操作见 [使用说明](USER_GUIDE.md)。本仓库只提供下载信息与产品文档，不公开应用源码、签名密钥或用户数据；Release 上传附件只有 APK 和 DMG。GitHub 自动生成的仓库 ZIP/TAR 仅包含此文档仓库，不包含应用源码。
 
 ## 当前版本
 
-4.8：清理带鉴权/会话参数的预置源；移除个人邮箱；增加内置使用说明、隐私与许可协议；关闭 Android 自动备份；修正构建路径配置。预置 600 个频道、817 条 URL，数量不代表实时可播放数量。
+Android **4.8.3 / build41**：三层遥控菜单、手动换源、5 秒菜单隐藏、失败回退与源检查改进。正式版沿用原 GitHub 发布证书；本地预览版可并存，数据不自动迁移。凤凰源问题及源服务器尚未解决。Mac 安装包保留 **4.8 / build2**。
+
+预置 600 个频道、817 条 URL，数量不代表实时可播放数量。
 
 - [发布验证与校验值](VERIFICATION.md)
 - [版本记录](CHANGELOG.md)
