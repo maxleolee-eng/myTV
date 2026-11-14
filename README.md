@@ -1,6 +1,6 @@
 # myTV
 
-Android 与 macOS 直播播放器。支持分类选台、收藏、多源切换。Android 最新公开版为 **4.9.10 / build52**。
+Android 与 macOS 直播播放器。支持分类选台、收藏、多源切换。Android 最新公开版为 **4.9.11 / build53**。
 
 **仅限个人非商业使用；未经许可禁止修改、改名打包、重签及再分发。第三方组件依各自许可证授权。**
 
@@ -8,16 +8,16 @@ Android 与 macOS 直播播放器。支持分类选台、收藏、多源切换�
 
 | 版本 | 安装包与适用设备 |
 | --- | --- |
-| Android 4.9.10 | [APK 下载](https://github.com/maxleolee-eng/myTV/releases/download/v4.9.10/myTV-Android-4.9.10-build52.apk)，Android 5.0+ 手机、平板、电视盒子 |
+| Android 4.9.11 | [APK 下载](https://github.com/maxleolee-eng/myTV/releases/download/v4.9.11/myTV-Android-4.9.11-build53.apk)，Android 5.0+ 手机、平板、电视盒子 |
 | Mac 4.8 | [DMG 下载](https://github.com/maxleolee-eng/myTV/releases/download/v4.8/myTV-macOS-4.8-arm64.dmg)，Apple Silicon、macOS 13+；未完成 Apple 公证 |
 
-[Android 发布说明](https://github.com/maxleolee-eng/myTV/releases/tag/v4.9.10) · [Mac 发布说明](https://github.com/maxleolee-eng/myTV/releases/tag/v4.8)
+[Android 发布说明](https://github.com/maxleolee-eng/myTV/releases/tag/v4.9.11) · [Mac 发布说明](https://github.com/maxleolee-eng/myTV/releases/tag/v4.8)
 
 本次只新增 Android APK。仓库仅公开产品说明与许可证，不公开应用源码、密钥、用户数据或内部管理资料。GitHub 自动生成的仓库 ZIP/TAR 只包含产品文档。
 
 ## 覆盖更新与收藏
 
-4.9.10 使用包名 com.hermes.mytv.cloud 和原正式证书，可直接覆盖 4.9.9。已有同包名云源版可直接覆盖安装，保留收藏及应用数据；请勿卸载旧版或清除数据。
+4.9.11 使用包名 com.hermes.mytv.cloud 和原正式证书，可直接覆盖 4.9.10 及 4.9.9。已有同包名云源版可直接覆盖安装，保留收藏及应用数据；请勿卸载旧版或清除数据。
 
 原 GitHub 4.8.x（com.hermes.mytv）及本地 manual 预览版使用不同包名，可与本版并存，收藏不会自动跨应用迁移。
 
