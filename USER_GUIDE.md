@@ -1,6 +1,6 @@
 # myTV 使用说明
 
-Android 4.9.11 / build53。应用名称 myTV，标语 easy for enjoy。
+Android 4.9.12 / build54。应用名称 myTV，标语 easy for enjoy。
 
 **仅限个人非商业使用；未经许可禁止修改、改名打包、重签及再分发。第三方组件依其原许可证授权。完整条款见 LICENSE.md。**
 
