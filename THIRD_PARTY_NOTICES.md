@@ -16,7 +16,7 @@
 
 ## 外部频道数据
 
-频道表引用以下公开数据来源。收录地址不代表取得节目内容、商标或第三方数据的额外授权：
+预置频道数据来自本地既有频道归档；本次仅进行发布清理，没有取得新的内容授权。应用内增量维护会访问以下外部频道表：
 
 - https://github.com/Guovin/iptv-api
 - https://github.com/suxuang/myIPTV
@@ -26,3 +26,10 @@
 - https://github.com/YanG-1989/m3u
 
 引用地址不是对其可用性、授权范围或安全性的保证。本产品许可不重新授权任何直播内容、频道名称、商标或第三方频道表；相关权利归原权利人所有。请仅观看你有权访问的内容。权利问题请通过官方仓库 Issue 联系，勿公开敏感信息。
+
+
+## FFmpeg
+
+macOS 4.9.17 随附独立的 FFmpeg 9.0.2 可执行文件，用于将 HTTP-FLV 以及仅能播出声音的普通 MPEG-TS 直播在本机转为 AVPlayer 可播放的分片 MP4。视频保留原编码，必要时将声音转换为 AAC。构建脚本在 HLS 封装器中为 HEVC 选择 hvc1 标记。构建采用 LGPL 2.1 或更高版本，关闭了 GPL、非自由组件及网络协议。FFmpeg 项目保留原版权。许可证、完整对应源代码和构建脚本随安装包放在 Contents/Resources/licenses/ffmpeg 中。
+
+项目主页 https://ffmpeg.org/

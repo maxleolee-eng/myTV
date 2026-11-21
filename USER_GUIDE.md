@@ -1,16 +1,22 @@
 # myTV 使用说明
 
-Android 4.9.16 / build58。应用名称 myTV，标语 easy for enjoy。
+Android 4.9.20（Build 62）和 macOS 4.9.20（Build 19）。
 
 **仅限个人非商业使用；未经许可禁止修改、改名打包、重签及再分发。第三方组件依其原许可证授权。完整条款见 LICENSE.md。**
 
 ## 安装与覆盖更新
 
-下载本版本 APK，通过 Android 系统安装器安装。支持 Android 5.0 及以上手机、平板和电视盒子，采用横屏界面。
+Android 版最低可安装在 Android 4.0（API 14）。下载本版本 APK，通过系统安装器安装。Android 4.x 自动进入轻量横屏界面，并优先尝试标清或 720p。Android 4.0–4.2 可使用包内预置目录或本地频道表。4.3 起可在系统密钥库和网络支持时同步地区目录。
+
+Mac 版适用于 Apple Silicon 和 macOS 13 及以上。打开 DMG，将 myTV 拖入 Applications。App 和 DMG 已使用 Developer ID 签名，本版尚未取得 Apple 公证。
 
 本版包名为 com.hermes.mytv.cloud，使用原正式发布证书。同包名、同证书的云源版可直接覆盖安装；安装更新时保留应用数据，收藏夹不会因本次更新被清空。请直接选择“更新”，不要卸载旧版或清除应用数据。
 
 早期 GitHub 4.8.x 的包名为 com.hermes.mytv，部分本地预览版为 com.hermes.mytv.manual。它们与本版是不同应用，可并存，收藏不会自动跨应用迁移。请保留原应用及其数据。
+
+## 切换播放源
+
+在频道下打开播放源列表，按顺序选择「源1」「源2」等编号。Mac 可在播放控制栏直接点选线路。回到直播画面后即可继续收看。
 
 ## 电视遥控器操作
 
