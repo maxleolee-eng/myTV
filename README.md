@@ -1,6 +1,6 @@
 # myTV
 
-Android 与 macOS 直播播放器。支持分类选台、收藏、多源切换。Android 和 macOS 最新公开版均为 **4.9.21**。
+Android 与 macOS 直播播放器。支持分类选台、收藏、多源切换。Android 和 macOS 最新公开版均为 **4.9.22**。
 
 **仅限个人非商业使用；未经许可禁止修改、改名打包、重签及再分发。第三方组件依各自许可证授权。**
 
@@ -8,16 +8,16 @@ Android 与 macOS 直播播放器。支持分类选台、收藏、多源切换�
 
 | 版本 | 安装包与适用设备 |
 | --- | --- |
-| Android 4.9.21 · Build 65 | [下载 APK](https://github.com/maxleolee-eng/myTV/releases/download/v4.9.21/myTV-Android-4.9.21-build65.apk)，适用于 Android 4.0（API 14）及以上手机、平板和电视盒子 |
-| macOS 4.9.21 · Build 21 | [下载 DMG](https://github.com/maxleolee-eng/myTV/releases/download/v4.9.21/myTV-macOS-4.9.21-build21-arm64.dmg)，适用于 Apple Silicon 和 macOS 13 及以上。已签名，尚未取得 Apple 公证 |
+| Android 4.9.22 · Build 66 | [下载 APK](https://github.com/maxleolee-eng/myTV/releases/download/v4.9.22/myTV-Android-4.9.22-build66.apk)，适用于 Android 4.0（API 14）及以上手机、平板和电视盒子 |
+| macOS 4.9.22 · Build 22 | [下载 DMG](https://github.com/maxleolee-eng/myTV/releases/download/v4.9.22/myTV-macOS-4.9.22-build22-arm64.dmg)，适用于 Apple Silicon 和 macOS 13 及以上。已签名，尚未取得 Apple 公证 |
 
-[版本说明](https://github.com/maxleolee-eng/myTV/releases/tag/v4.9.21)
+[版本说明](https://github.com/maxleolee-eng/myTV/releases/tag/v4.9.22)
 
 公开仓库提供产品文档和许可证。安装包随 GitHub Release 发布。
 
 ## 覆盖更新与收藏
 
-Android 4.9.21 沿用 com.hermes.mytv.cloud 包名及原正式签名。已安装同包名、同签名云源版的用户，在系统安装器中选择“更新”即可保留收藏和应用数据。
+Android 4.9.22 沿用 com.hermes.mytv.cloud 包名及原正式签名。已安装同包名、同签名云源版的用户，在系统安装器中选择“更新”即可保留收藏和应用数据。
 
 原 GitHub 4.8.x（com.hermes.mytv）及本地 manual 预览版使用不同包名，可与本版并存，收藏不会自动跨应用迁移。
 

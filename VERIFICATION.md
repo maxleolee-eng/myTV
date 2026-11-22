@@ -1,5 +1,12 @@
 # myTV 安装包校验
 
+## 4.9.22
+
+| 文件 | SHA-256 |
+| --- | --- |
+| myTV-Android-4.9.22-build66.apk | `2100419cf0930120527557964d31e7ba2eb71aeaffb4ed2ef810e3f0f145e877` |
+| myTV-macOS-4.9.22-build22-arm64.dmg | `ea7a9ac136e709e083d7965652e833aa016cc7b9b97bb65cefa1bd2fee7e59e5` |
+
 ## 4.9.21
 
 | 文件 | SHA-256 |
