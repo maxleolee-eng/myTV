@@ -33,3 +33,5 @@
 macOS 4.9.17 随附独立的 FFmpeg 9.0.2 可执行文件，用于将 HTTP-FLV 以及仅能播出声音的普通 MPEG-TS 直播在本机转为 AVPlayer 可播放的分片 MP4。视频保留原编码，必要时将声音转换为 AAC。构建脚本在 HLS 封装器中为 HEVC 选择 hvc1 标记。构建采用 LGPL 2.1 或更高版本，关闭了 GPL、非自由组件及网络协议。FFmpeg 项目保留原版权。许可证、完整对应源代码和构建脚本随安装包放在 Contents/Resources/licenses/ffmpeg 中。
 
 项目主页 https://ffmpeg.org/
+
+Android 4.x 的服务连接使用 Bouncy Castle TLS 1.87。[上游项目](https://github.com/bcgit/bc-java) · [许可证](licenses/BOUNCY-CASTLE-LICENSE.txt)

@@ -1,4 +1,13 @@
-# myTV 4.9.20 发布验证
+# myTV 安装包校验
+
+## 4.9.21
+
+| 文件 | SHA-256 |
+| --- | --- |
+| myTV-Android-4.9.21-build65.apk | `8f57bc94993a6b4e1f4406b97b6debcfca31bd7fcc0b7d5129ecf5cc13e09816` |
+| myTV-macOS-4.9.21-build21-arm64.dmg | `42c52b1a2e349493a735ffdd555504c35a3fbc1ac1303515182886013d767174` |
+
+## 4.9.20 历史验证
 
 ## 安装与实测
 
