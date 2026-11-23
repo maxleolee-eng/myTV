@@ -1,12 +1,12 @@
 # myTV 使用说明
 
-Android 4.9.23（Build 68）和 macOS 4.9.23（Build 24）。
+Android 4.9.24（Build 69）和 macOS 4.9.23（Build 24）。
 
 **仅限个人非商业使用；未经许可禁止修改、改名打包、重签及再分发。第三方组件依其原许可证授权。完整条款见 LICENSE.md。**
 
 ## 安装与覆盖更新
 
-Android 版最低可安装在 Android 4.0（API 14）。下载本版本 APK，通过系统安装器安装。Android 4.x 自动进入轻量横屏界面，并优先尝试标清或 720p。Android 4.0–4.2 可使用包内预置目录或本地频道表。4.3 起可在系统密钥库和网络支持时同步地区目录。
+Android 版最低可安装在 Android 4.0（API 14）。下载 APK，通过系统安装器安装。打开即进入播放器，不再做安装验证。Android 4.x 使用轻量横屏界面；4.3 起可在系统密钥库和网络支持时同步地区目录。没有缓存又不支持云同步时，可使用本地频道表。
 
 Mac 版适用于 Apple Silicon 和 macOS 13 及以上。打开 DMG，将 myTV 拖入 Applications。App 和 DMG 已使用 Developer ID 签名，本版尚未取得 Apple 公证。
 

@@ -1,5 +1,11 @@
 # myTV 安装包校验
 
+## 4.9.24（Android）
+
+| 文件 | SHA-256 |
+| --- | --- |
+| myTV-Android-4.9.24-build69.apk | `946324ccf40fd390022b61e576a49def71bb75d69e6e5f9a40bfb9dc3a765144` |
+
 ## 4.9.23
 
 | 文件 | SHA-256 |
