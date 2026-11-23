@@ -1,6 +1,6 @@
 # myTV 使用说明
 
-Android 4.9.22（Build 66）和 macOS 4.9.22（Build 22）。
+Android 4.9.23（Build 68）和 macOS 4.9.23（Build 24）。
 
 **仅限个人非商业使用；未经许可禁止修改、改名打包、重签及再分发。第三方组件依其原许可证授权。完整条款见 LICENSE.md。**
 
